@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px; 
+    height: 200px; 
+    background-color: #15e51c; 
+    border-radius: 25px;
+    padding: 20px; 
+    margin: 10px; 
+    font-size: 170px;
+}
+
+.box:active {
+    width: 170px; 
+    height: 170px;
+    transform: 
+
+}
